@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  font-family: 'Righteous', sans-serif;
+  background-image: url('https://cdn.pixabay.com/photo/2017/08/24/03/41/starry-sky-2675322_1280.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
