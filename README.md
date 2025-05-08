@@ -1,4 +1,5 @@
 🧠 Quiz App
+
 The Quiz App is a sleek and interactive web application designed to test users' knowledge across various topics. Built with modern web technologies, it delivers an engaging quiz experience with real-time feedback and scoring.
 
 🚀 Features
