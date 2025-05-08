@@ -30,7 +30,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/quiz-app.git
+git clone [https://github.com/your-username/quiz-app.git](https://github.com/unnati1004/quiz-app.git)
 cd quiz-app
 Install dependencies:
 
